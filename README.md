@@ -1,7 +1,7 @@
 # Mine_imator Violet
 ![Mine_imator Violet](https://images.gitee.com/uploads/images/2021/0828/135050_6e239249_8147965.png "06f0caa4-6b7d-43ac-8a82-0d031f5b3b80.png")
 
-## INTRO
+## Intro
 
 Mine-imator violet is a community-customized version based on Mine-imator 1.2.9. 
 
@@ -9,7 +9,7 @@ Compared to the original version, it offers unique features such as volumetric f
 
 
 
-## unique features
+## Unique features
 1.  mouth animation generator: Automatically generate mouth models and animations
 2.  Camera focal length controller
 3.  Height fog
