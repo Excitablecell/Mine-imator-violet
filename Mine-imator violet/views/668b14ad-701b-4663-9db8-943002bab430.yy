@@ -1,0 +1,33 @@
+{
+    "id": "668b14ad-701b-4663-9db8-943002bab430",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "668b14ad-701b-4663-9db8-943002bab430",
+    "children": [
+        "b0942aa0-5eb2-4cc1-bf86-a6817061296d",
+        "199f7e52-985c-4f21-8edd-03cd93acd127",
+        "c561f212-589a-48df-809d-278680dc76f5",
+        "e646d19b-c572-4117-b159-9df6c054b0f6",
+        "9e32a06b-1227-4008-91d6-68cc6b86f52b",
+        "44eb047a-d54a-452b-9226-d5db3c5e392d",
+        "799843af-5ff7-44e6-b1a5-2601987c79f5",
+        "d429f732-0608-4f1c-9b58-d537cda03cdd",
+        "72897204-1ded-447b-88a7-90c79be3b660",
+        "a2d18f5d-f43b-478e-8e83-8667fd73a448",
+        "9c925b47-af99-4f82-863b-4407ceffb2e7",
+        "7ac8daca-639c-413a-9954-ebb6020b572d",
+        "95ee3e41-98b5-49f2-9728-079ebfedeeb5",
+        "d46bf975-2c21-4c6b-9428-a1f13ed46a36",
+        "6a189dda-b7cc-48c1-a87e-3e660b5e86fc",
+        "fa357691-ee79-4288-86ac-dfb8cb249e45",
+        "84471bb0-1649-421b-88dc-78d5f8b84ff4",
+        "a5785a65-9485-4e28-8dc8-e7e65c5a8ad4",
+        "c23d5498-ee59-4731-8c93-8d389765f07b",
+        "31ae655e-7ea4-4344-8105-451f67dae6e7",
+        "5e2a4b7b-9d7d-4d31-b207-2e30e802c3a4"
+    ],
+    "filterType": "GMScript",
+    "folderName": "Fog",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

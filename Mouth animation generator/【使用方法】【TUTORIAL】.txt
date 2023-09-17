@@ -1,0 +1,34 @@
+【mineimator语音嘴型转换器】
+
+【介绍(intro)】
+本项目可以将语音转换成mineimator嘴模关键帧
+This software can convert your speech audio into the corresponding mineimator 'lip keyframe' object. 
+
+【安装教程(tutorial)】
+
+这个软件可以把一段语音转换成对应的mi口型帧 
+This software can convert your speech audio into the corresponding mineimator 'lip keyframe' object. 
+
+首先你需要把你准备的语音文件放到audio_resources文件夹里 
+First, you need to put your vocal audio (no bgm and .wav file!!) into audio resources folder. 
+
+然后启动软件 mi嘴型音频转换器(中文版).exe，输入你的语音文件名（不用输入后缀，语音文件必须是wav格式英文文件） 
+Then, you should lauch Audio-keyframes converter(English version).exe and follow the instructions of converter. 
+
+软件自动转换并关闭后，在output_file文件夹中将xxx_finish.miobject导入到你的工程中，并替换成你的嘴巴贴图即可 
+After converting, please import xxx_finish.miobject to your project
+
+【联系我们(contact us) 】
+If you have any questions, please contact us in the forum or youtube 
+
+Fourm ID:Excitablecell,Stanwade,ttrtty5 
+https://www.mineimatorforums.com/index.php?/profile/31594-excitablecell/ 
+https://www.youtube.com/channel/UCCwOek95Or3ZMgAp-Tj_JUw
+https://space.bilibili.com/33979792
+
+【参与贡献(authors)】
+
+1.  mine_imator模型对接：亢体动画(Exanimation)
+2.  音频分析：瓦斯弹(Stanwade)
+3.  GUI设计：ttrtty5
+4.  翻译：干二大日天
