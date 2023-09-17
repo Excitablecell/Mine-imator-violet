@@ -18,7 +18,7 @@ Compared to the original version, it offers unique features such as volumetric f
 9. Model import tool: capable of converting certain Minecraft models into the 'mimodel' format.
 
 #### 
-## Contributor
+## Contributors
 1.  亢体
 2.  瓦斯弹
 3.  林子
